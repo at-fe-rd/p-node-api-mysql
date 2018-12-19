@@ -21,6 +21,7 @@ npm start
 - Read seeders from file `csv`.
 - Auto generate Controller, Routes files.
 - Validation with `JOI`.
+- Serialize.
 - Unit Test with `Mocha`
 ## Command line
 - To generate model & migration:
@@ -38,4 +39,10 @@ npm run new
 - To reset database: 
 ```
 npm run migration:reset
+```
+- To Run test: 
+```
+npm run test
+
+npm run test:watch //test for watch changes
 ```
