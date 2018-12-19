@@ -11,6 +11,8 @@ npm install
 # serve with hot reload at localhost:8080
 npm start
 ```
+
+Check it out at port `3012`
 ## Prerequisites
 - Nodejs
 - MYSQL
