@@ -14,6 +14,7 @@ npm start
 ## Prerequisites
 - Nodejs
 - MYSQL
+- Fastify
 
 ## What project can do
 - Connect with Sequelize.
